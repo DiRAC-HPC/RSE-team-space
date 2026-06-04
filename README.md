@@ -21,7 +21,7 @@ Projects are tracked as [GH issues](https://github.com/DiRAC-HPC/RSE-team-space/
    4. Inside the drop-down menu for `DiRAC RSE team planning`, add the status, start and end dates **for the involvement of the particular assignee** (can be a sub-period of the whole project),
       `Total project FTE` needed for that project as requested by the proposal (same as in the parent issue), the `FTE months per person` effort that **the assignee will be allocating on the project
       for the period of this issue only**, and the `Location` (affiliation) of the assignee.
-3. If there are going to be gaps of more than a month or so in the same person's assignment to the same project, add a new sub-issue for each such period, with a title of the form
+3. If there are going to be gaps of more than a month or so in the same person's assignment to the same project, or a change in amount of effort given to the project, add a new sub-issue for each such period, with a title of the form
    **`<project category>: <project name> - <person initials> - <sub-period number>`**. For example, `RAC17: SPHNG - GK - 1`. Annual leave and conferences do not count as gaps, just include them as work.
 4. **Note:** the percentage of one's time allocated to a project can be inferred by the duration of the sub-period and the `FTE months per person` field. It does ***not*** have to be something obvious like
    e.g. 50%-50% if someone is allocated to two projects at the same time, it can be any value.
